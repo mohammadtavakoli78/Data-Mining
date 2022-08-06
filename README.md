@@ -68,7 +68,7 @@ You can access to code of this section by this [link](https://github.com/mohamma
 
 for ```Association Rules``` project i did these tasks:
 > 1.  working with ```Apriori``` algorithm.
-> 2.  load this [dataset]() and preprocess it and create dataframe.
+> 2.  load this [dataset](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%203/Hypermarket_dataset.csv) and preprocess it and create dataframe.
 > 3.  find frequent_itemsets and print them.
 > 4.  extract association_rules.<br>
 
