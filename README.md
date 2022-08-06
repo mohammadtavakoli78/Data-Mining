@@ -23,6 +23,9 @@ This project is about ```preprocessing``` that we use ```pandas``` and ```Scikit
 > 4.  dimension reduction with ```PCA```.
 > 5.  ```visualization```.<br>
 
+The visualization of the final result is:<br>
+
+<img src="https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%201/images/9.PNG" width="400px" height="300px" display="block" /><br>
 you can access to project and code by this [link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%201).
 
 ## 💻 Second_Project
