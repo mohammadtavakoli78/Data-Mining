@@ -29,7 +29,7 @@ The visualization of the final result is:<br>
 you can access to project and code by this [link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%201).
 
 ## 💻 Second_Project
-This project is about creating a ```Neural Network``` and we train the model for two datasets: ```make_circles``` and ```fashion_mnist```.<br>
+This project is about creating a ```Neural Network``` and we train the model for two datasets: ```make_circles``` and ```fashion_mnist```.<br><br>
 for first dataset (```make_circles```) i follow these steps:
 > 1.  make 1000 circles.
 > 2.  split train and test dataset.
