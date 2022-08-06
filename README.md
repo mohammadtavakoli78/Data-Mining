@@ -75,7 +75,16 @@ for ```Association Rules``` project i did these tasks:
 You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%203/AssociationRules.ipynb).<br><br>
 
 ## 💻 Fourth Project
-. [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%204).
+And finally in this project, I train a model with a dataset which has more than 70k records that you can download it by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%204/diabetes.csv) and we should decide whether a person has diabete disease or not, for this project we use ```XGBoost``` that is a ```decision tree```.<br>
+Each record has 21 features and with these 21 features we should decide whether a person has diabete or not.<br>
+
+for doing this i did these tasks respectively:
+> 1.  ```preprocessing data``` (load dataset, rename column names,  fill Null values with mode, normalizing, convert categorical features to numerical features with OneHotEncoding and Min-Max, split label column for our dataset)
+> 2.  ```build model``` (split train and test data, create ```XGBClassifier```, train model, print accuracy, plot confusion_matrix, plot tree, print precision and recall)
+> 3.  ```parameter tuning``` with the help of ```GridSearchCV``` and determine best parameters
+> 4. ```plot metric changes```<br>
+
+You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%204/finalProject.ipynb).
 
 ## Technologies
 Project is created with:
