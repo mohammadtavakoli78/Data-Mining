@@ -16,7 +16,14 @@ This repository contains projects of Data Mining Course. There are four projects
 > 4.  and final project, we train a model with a dataset which has more than 70k records and we should decide whether a person has a special disease or not, for this project we use ```XGBoost``` that is a ```decision tree```.
 
 ## 💻 First_Project
-This project is about ```preprocessing``` that we use ```pandas``` and ```Scikit-learn``` for this purpose. The dataset we use is ```iris-dataset``` which can be downloaded by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%201/iris.data). [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%201).
+This project is about ```preprocessing``` that we use ```pandas``` and ```Scikit-learn``` for this purpose. The dataset we use is ```iris-dataset``` which can be downloaded by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%201/iris.data). i do the following steps for preprocessing ```iris-dataset```.<br>
+> 1.  handle ```missing values``` and find NaN values and fill them with proper values or remove them.
+> 2.  convert categorical features to numerical features by ```Label Encoding``` and ```One Hot Encoding```.
+> 3.  nomalize data frame by the help of ```Standard Scalar```.
+> 4.  dimension reduction with ```PCA```.
+> 5.  ```visualization```.<br>
+
+you can access to project and code by this [link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%201).
 
 ## 💻 Second_Project
 . [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%202).
