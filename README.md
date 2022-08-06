@@ -52,7 +52,27 @@ for acctivation functions i used ```relu``` for hidden layers and ```softmax``` 
 You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%202/DM_HW2_2.ipynb).<br><br>
 
 ## 💻 Third_Project
-. [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%203).
+This project is about ```Association Rules``` and also ```Clustering```, There are two different projects.<br>
+
+for ```clustring``` project i did these tasks:
+> 1.  working with ```KMeans``` library from sklearn.cluster and plotting result.
+> 2.  determining efficient number of clusters with two methods: ```elbow``` and ```PCA```.
+> 3.  working with complex datasets and clustering them.
+> 4.  working with ```load_digits``` dataset and cluster this dataset. 
+> 5.  dimenshion reduction of a picture.
+> 6.  do ```DBSCAN``` algorithm for two datasets.
+> 7.  determining efficient value for ```MinPts``` and ```epsilon```.
+> 8.  plotting results and comparison results.<br>
+
+You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%203/Clustering.ipynb).<br><br>
+
+for ```Association Rules``` project i did these tasks:
+> 1.  working with ```Apriori``` algorithm.
+> 2.  load this [dataset]() and preprocess it and create dataframe.
+> 3.  find frequent_itemsets and print them.
+> 4.  extract association_rules.<br>
+
+You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%203/AssociationRules.ipynb).<br><br>
 
 ## 💻 Fourth_Project
 . [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%204).
