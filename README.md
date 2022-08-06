@@ -29,7 +29,27 @@ The visualization of the final result is:<br>
 you can access to project and code by this [link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%201).
 
 ## 💻 Second_Project
-. [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%202).
+This project is about creating a ```Neural Network``` and we train the model for two datasets: ```make_circles``` and ```fashion_mnist```.<br>
+for first dataset (```make_circles```) i follow these steps:
+> 1.  make 1000 circles.
+> 2.  split train and test dataset.
+> 3.  create a ```Neural Network``` with two hidden layers.
+> 4.  train model.
+> 5.  plot loss and accuracy.<br>
+
+for acctivation functions i used ```relu``` for hidden layers and ```sigmoid``` for the output layer and ```binary_crossentropy``` for loss function.<br>
+You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%202/DM_HW2_1.ipynb).<br><br>
+
+for second dataset (```fashion_mnist```) i follow these steps:
+> 1.  load dataset.
+> 2.  split train and test dataset.
+> 3.  create a ```Convolutional Neural Network``` with two hidden layers.
+> 4.  train model.
+> 5.  plot loss and accuracy.
+> 6.  ```print confusion_matrix``` and ```classification_report```.<br>
+
+for acctivation functions i used ```relu``` for hidden layers and ```softmax``` for the output layer and ```categorical_crossentropy``` for loss function and ```adam``` for optimizer.<br>
+You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%202/DM_HW2_2.ipynb).<br><br>
 
 ## 💻 Third_Project
 . [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%203).
