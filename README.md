@@ -2,10 +2,10 @@
 
 # Table of Contents
 - [Introduction](https://github.com/mohammadtavakoli78/Data-Mining#introduction)
-- [First_Project](https://github.com/mohammadtavakoli78/Data-Mining#-First_Project)
-- [Second_Project](https://github.com/mohammadtavakoli78/Data-Mining#-Second_Project)
-- [Third_Project](https://github.com/mohammadtavakoli78/Data-Mining#-Third_Project)
-- [Fourth_Project](https://github.com/mohammadtavakoli78/Data-Mining#-Fourth_Project)
+- [First Project](https://github.com/mohammadtavakoli78/Data-Mining#-First Project)
+- [Second Project](https://github.com/mohammadtavakoli78/Data-Mining#-Second Project)
+- [Third Project](https://github.com/mohammadtavakoli78/Data-Mining#-Third Project)
+- [Fourth Project](https://github.com/mohammadtavakoli78/Data-Mining#-Fourth Project)
 - [Technologies](https://github.com/mohammadtavakoli78/Data-Mining#technologies)
 
 ## Introduction
@@ -15,7 +15,7 @@ This repository contains projects of Data Mining Course. There are four projects
 > 3.  third project, is about ```Association Rules``` and also ```Clustering```, There are two different projects.<br><br>
 > 4.  and final project, we train a model with a dataset which has more than 70k records and we should decide whether a person has a special disease or not, for this project we use ```XGBoost``` that is a ```decision tree```.
 
-## 💻 First_Project
+## 💻 First Project
 This project is about ```preprocessing``` that we use ```pandas``` and ```Scikit-learn``` for this purpose. The dataset we use is ```iris-dataset``` which can be downloaded by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%201/iris.data). i do the following steps for preprocessing ```iris-dataset```.<br>
 > 1.  handle ```missing values``` and find NaN values and fill them with proper values or remove them.
 > 2.  convert categorical features to numerical features by ```Label Encoding``` and ```One Hot Encoding```.
@@ -28,7 +28,7 @@ The visualization of the final result is:<br>
 <img src="https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%201/images/9.PNG" width="400px" height="300px" display="block" /><br>
 you can access to project and code by this [link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%201).
 
-## 💻 Second_Project
+## 💻 Second Project
 This project is about creating a ```Neural Network``` and we train the model for two datasets: ```make_circles``` and ```fashion_mnist```.<br><br>
 for first dataset (```make_circles```) i follow these steps:
 > 1.  make 1000 circles.
@@ -51,7 +51,7 @@ for second dataset (```fashion_mnist```) i follow these steps:
 for acctivation functions i used ```relu``` for hidden layers and ```softmax``` for the output layer and ```categorical_crossentropy``` for loss function and ```adam``` for optimizer.<br>
 You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%202/DM_HW2_2.ipynb).<br><br>
 
-## 💻 Third_Project
+## 💻 Third Project
 This project is about ```Association Rules``` and also ```Clustering```, There are two different projects.<br>
 
 for ```clustring``` project i did these tasks:
@@ -74,7 +74,7 @@ for ```Association Rules``` project i did these tasks:
 
 You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%203/AssociationRules.ipynb).<br><br>
 
-## 💻 Fourth_Project
+## 💻 Fourth Project
 . [Codes are in this link](https://github.com/mohammadtavakoli78/Data-Mining/tree/master/Project%204).
 
 ## Technologies
