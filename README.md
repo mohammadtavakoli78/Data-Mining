@@ -79,10 +79,10 @@ And finally in this project, I train a model with a dataset which has more than 
 Each record has 21 features and with these 21 features we should decide whether a person has diabete or not.<br>
 
 for doing this i did these tasks respectively:
-> 1.  ```preprocessing data``` (load dataset, rename column names,  fill Null values with mode, normalizing, convert categorical features to numerical features with OneHotEncoding and Min-Max, split label column for our dataset)
-> 2.  ```build model``` (split train and test data, create ```XGBClassifier```, train model, print accuracy, plot confusion_matrix, plot tree, print precision and recall)
-> 3.  ```parameter tuning``` with the help of ```GridSearchCV``` and determine best parameters
-> 4. ```plot metric changes```<br>
+> 1.  ```preprocessing data``` (load dataset, rename column names,  fill Null values with mode, normalizing, convert categorical features to numerical features with OneHotEncoding and Min-Max, split label column for our dataset).
+> 2.  ```build model``` (split train and test data, create ```XGBClassifier```, train model, print accuracy, plot confusion_matrix, plot tree, print precision and recall).
+> 3.  ```parameter tuning``` with the help of ```GridSearchCV``` and determine best parameters.
+> 4. ```plot metric changes```<br>.
 
 You can access to code of this section by this [link](https://github.com/mohammadtavakoli78/Data-Mining/blob/master/Project%204/finalProject.ipynb).
 
