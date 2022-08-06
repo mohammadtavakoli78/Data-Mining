@@ -2,10 +2,10 @@
 
 # Table of Contents
 - [Introduction](https://github.com/mohammadtavakoli78/Data-Mining#introduction)
-- [First Project](https://github.com/mohammadtavakoli78/Data-Mining#-First Project)
-- [Second Project](https://github.com/mohammadtavakoli78/Data-Mining#-Second Project)
-- [Third Project](https://github.com/mohammadtavakoli78/Data-Mining#-Third Project)
-- [Fourth Project](https://github.com/mohammadtavakoli78/Data-Mining#-Fourth Project)
+- [First Project](https://github.com/mohammadtavakoli78/Data-Mining#-First-Project)
+- [Second Project](https://github.com/mohammadtavakoli78/Data-Mining#-Second-Project)
+- [Third Project](https://github.com/mohammadtavakoli78/Data-Mining#-Third-Project)
+- [Fourth Project](https://github.com/mohammadtavakoli78/Data-Mining#-Fourth-Project)
 - [Technologies](https://github.com/mohammadtavakoli78/Data-Mining#technologies)
 
 ## Introduction
